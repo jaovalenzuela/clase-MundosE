@@ -1,0 +1,44 @@
+ul{ 
+    padding-left: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 20px;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    margin-left: 101px;
+    margin-right: 101px;
+}
+
+.nav-ul{
+    list-style: none;
+}
+
+.nav-ul li{
+    margin-right: 57px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+
+}
+
+.h1-header{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 191px;
+    font-weight: 600;
+    color: white;
+    font-size: 48px;
+}
+
+.cont-header{
+    background-image: url("../assets/imgs/slider-1.png");
+}
